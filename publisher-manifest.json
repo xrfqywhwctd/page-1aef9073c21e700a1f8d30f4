@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "812895ecd21c83390476366f",
+  "owner": "xrfqywhwctd",
+  "repo": "page-1aef9073c21e700a1f8d30f4",
+  "title": "NSL",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1aef9073c21e700a1f8d30f4",
+      "a": "NSL",
+      "b": "",
+      "entity": "NSL",
+      "brand": "NSL",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5b63cb9909abe5caecba3cebccd540f4c1ef9182035b738f706e0d7df36f9dba",
+      "content": {
+        "keyword1": "NSL",
+        "keyword2": "",
+        "primary_entity": "NSL",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "NSL 提供稳定的机场订阅与 VPN 梯子网络加速服务，支持多端客户端下载，含基础版、旗舰版与团队版套餐，官方网站一站获取节点与加速器。",
+          "AI_DESCRIPTION": "NSL 提供稳定的机场订阅与 VPN 梯子网络加速服务，支持多端客户端下载，含基础版、旗舰版与团队版套餐，官方网站一站获取节点与加速器。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{overflow-x:hidden}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e8f4fc;line-height:1.75;font-size:16px;word-wrap:break-word}a{color:#2ee6d6;text-decoration:none}header,footer{background:#0c2340;border-color:#1ab8c4}header{border-bottom:2px solid #1ab8c4;padding:18px 16px}footer{border-top:2px solid #1ab8c4;padding:24px 16px;margin-top:32px;color:#9bb8cc;font-size:14px}.wrap{max-width:880px;margin:0 auto;padding:16px}nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:12px}nav a{color:#c7ecf4;font-size:15px}h1{font-size:1.7rem;line-height:1.35;margin:8px 0 16px;color:#ffffff}h2{font-size:1.28rem;margin:28px 0 12px;color:#2ee6d6;border-left:4px solid #1ab8c4;padding-left:10px}h3{font-size:1.05rem;margin:18px 0 8px;color:#8be9e0}p{margin:0 0 12px}ul,ol{margin:0 0 14px 1.2em}li{margin:6px 0}main{padding-bottom:20px}.card{background:#102a4a;border:1px solid #1e4d6e;border-radius:10px;padding:16px;margin:12px 0}.plan{background:#102a4a;border:1px solid #1e4d6e;border-radius:10px;padding:16px;margin:14px 0}.plan.featured{border:2px solid #2ee6d6;background:#123556}.price{font-size:1.35rem;color:#2ee6d6;font-weight:700}.muted{color:#9bb8cc}.step{counter-increment:step;position:relative;padding:14px 14px 14px 54px;background:#102a4a;border:1px solid #1e4d6e;border-radius:10px;margin:12px 0}.steps{counter-reset:step}.step:before{content:counter(step);position:absolute;left:14px;top:14px;width:28px;height:28px;border-radius:50%;background:#1ab8c4;color:#071422;font-weight:700;text-align:center;line-height:28px}details{background:#102a4a;border:1px solid #1e4d6e;border-radius:8px;margin:10px 0;padding:4px 14px 10px}summary{font-weight:650;color:#2ee6d6;padding:10px 0}details p{margin:0;color:#d5eaf4}.tag{display:inline-block;background:#0c3a4e;color:#2ee6d6;border-radius:4px;padding:2px 8px;font-size:13px;margin-right:6px}.ad{background:#0e2c48;border:1px dashed #2a6a86;border-radius:8px;padding:14px;margin:16px 0;color:#9bb8cc}.grid{display:block}.client{padding:12px 0;border-bottom:1px solid #1e4d6e}.client:last-child{border-bottom:0}@media(min-width:720px){h1{font-size:2rem}}</style><header><div class=\"wrap\"><p class=\"muted\">NSL 官方网站</p><strong>NSL</strong><p>机场订阅 · VPN 梯子 · 网络加速器 · 客户端下载</p><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端选择</a><a href=\"#download\">官网下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>NSL 官方网站 — 机场订阅、VPN 加速器与客户端下载</h1><section id=\"intro\"><h2>品牌简介</h2><p>NSL 是面向个人与团队的跨境网络加速服务，以机场订阅为核心，把稳定节点、原生流媒体解锁和游戏线路整合进统一的 VPN 梯子方案。用户在官方网站完成套餐选择后，即可获取订阅并导入常用客户端，无需额外寻找散落节点。</p><p>NSL 强调线路可用性与客户端兼容：普通节点池覆盖日常浏览与基础流媒体，旗舰与团队线路提供 IPLC 专线游戏加速、高带宽 VIP 节点以及可定制路由。流量按自然月结算，多设备同时在线有明确上限，便于家庭与小团队共用。</p><p>本页为 NSL 官网信息入口，集中说明套餐、使用场景、操作步骤与客户端下载路径，帮助你在几分钟内完成从订阅到联网加速的全过程。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"card\"><h3>流媒体与内容访问</h3><p>观看海外平台、下载学术资料或访问地区限制站点时，NSL 基础线路即可解锁常见流媒体；旗舰版进一步提供全节点原生解锁，减少片源地区不匹配。</p></div><div class=\"card\"><h3>游戏与低延迟对战</h3><p>需要更稳延迟时选择旗舰版 IPLC 专线优化，适合需要持续在线的对战与更新下载，避免公共宽带晚高峰抖动。</p></div><div class=\"card\"><h3>远程办公与多人协作</h3><p>团队版支持最多 20 台设备同时在线，并提供企业定制路由与专属客户经理，适合跨境会议、代码仓库与云桌面访问。</p></div><div class=\"card\"><h3>多终端随身加速</h3><p>同一订阅可在电脑、手机与路由器间切换。NSL 按套餐限制同时在线台数，日常通勤与差旅只需在客户端切换节点即可。</p></div></section><section id=\"guide\"><h2>操作说明：纵向三步开启加速</h2><p>NSL 采用「选套餐 → 拿订阅 → 导入客户端」的固定流程。按下列步骤操作，可避免把订阅填进错误软件或漏开系统代理。</p><div class=\"steps\"><div class=\"step\"><h3>第一步：在官网确认套餐与设备数量</h3><p>对照自己的流量与同时在线需求。轻度浏览选基础版（100GB / 3 台）；需要原生流媒体与游戏线路选旗舰版（300GB / 5 台）；多人共用或企业路由选团队版（1000GB / 20 台）。年付价格已在套餐区标明。</p></div><div class=\"step\"><h3>第二步：获取机场订阅链接</h3><p>登录后在用户中心复制通用订阅地址（Clash / Surge / Quantumult X / Shadowrocket 等格式由客户端自动识别）。请勿把订阅公开发布。若链接泄露，立即在控制台重置。</p></div><div class=\"step\"><h3>第三步：下载客户端并导入后开启系统代理</h3><p>根据系统选择下方推荐客户端，粘贴订阅、更新节点列表，再打开「系统代理」或「VPN 配置」。首次连接建议选择标注流媒体或 IPLC 的节点，用浏览器访问目标站点验证。</p></div></div><h3>日常维护建议</h3><ul><li>节点超时先更新订阅，再切换同区域备用线路。</li><li>流媒体失败时改用旗舰版原生解锁节点，不要反复开关代理。</li><li>路由器使用时计入同时在线设备数，避免超出套餐上限被限速。</li><li>年付用户可在到期前于官网续费，流量将在新周期重置。</li></ul></section><section id=\"plans\"><h2>NSL 套餐与价格</h2><p>以下为官网当前可购方案。价格含机场订阅与节点使用权，客户端本身为第三方开源或商店应用，NSL 不捆绑收费。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版 <span class=\"tag\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"clients\"><h2>客户端选择（重点）</h2><p>NSL 订阅兼容主流协议栈。官网下载区只引导到常用客户端，导入同一条订阅即可。请优先使用下列组合，减少规则不兼容。</p><div class=\"card\"><div class=\"client\"><h3>Windows</h3><p>推荐 Clash Verge Rev 或 Clash Nyanpasu。导入订阅后开启 TUN 模式可覆盖大多数应用。备用：v2rayN（需手动选择节点与路由）。</p></div><div class=\"client\"><h3>macOS</h3><p>推荐 ClashX Meta 或 Surge。ClashX Meta 适合快速导入；Surge 适合需要精细分流与增强模式的用户。</p></div><div class=\"client\"><h3>iOS / iPadOS</h3><p>推荐 Shadowrocket 或 Quantumult X（需商店购买）。添加订阅后开启允许 VPN 配置，按地区策略选择流媒体节点。</p></div><div class=\"client\"><h3>Android</h3><p>推荐 Clash Meta for Android。开启「覆写 DNS」与「绕过中国应用」可减少国内 App 被误代理。备用：Surfboard。</p></div><div class=\"client\"><h3>路由器与 Linux</h3><p>OpenWrt 可用 Clash / Mihomo 内核；Linux 桌面可用 Clash Premium / Mihomo。团队版支持按网段定制分流，适合办公室出口。</p></div></div></section><section id=\"download\"><h2>官网下载与接入提示</h2><p>NSL 官方下载入口用于说明各端对应关系，客户端安装包请从开发者发布页或系统应用商店获取，避免来路不明的修改版。完成安装后回到本页「操作说明」导入订阅。</p><ul><li><a href=\"#clients\">Windows 客户端选择</a> — Clash 系优先</li><li><a href=\"#clients\">macOS 客户端选择</a> — ClashX Meta / Surge</li><li><a href=\"#clients\">iOS 客户端选择</a> — Shadowrocket / Quantumult X</li><li><a href=\"#clients\">Android 客户端选择</a> — Clash Meta</li><li><a href=\"#guide\">返回三步操作说明</a></li></ul><p>下载完成后：打开软件 → 订阅 / 配置 → 粘贴 NSL 订阅 URL → 更新 → 选择节点 → 开启系统代理。若浏览器仍直连，检查是否漏开 TUN 或增强模式。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>NSL 是什么？和普通 VPN 有何不同？</summary><p>NSL 是以机场订阅分发节点的网络加速服务。你购买的是流量与线路权限，再在自选客户端中使用。相比单一 App 内置 VPN，NSL 可在电脑、手机、路由器间共用同一订阅，并按套餐提供流媒体解锁与 IPLC 游戏线路。</p></details><details><summary>如何完成客户端下载并把订阅导入？</summary><p>先在本页「客户端选择」确定系统对应软件，从官方渠道安装。登录 NSL 用户中心复制订阅链接，在客户端的订阅栏粘贴并更新。导入成功后会出现节点列表，开启系统代理即可访问。详细顺序见「操作说明」三步。</p></details><details><summary>基础版、旗舰版、团队版该怎么选？</summary><p>单人轻度使用、三台设备以内选基础版。需要原生流媒体、游戏 IPLC 和优先工单选旗舰版。家庭共享超过五台、工作室或需要定制路由选团队版。年付可锁定全年单价，流量仍按月重置。</p></details><details><summary>同时在线设备如何计算？超出会怎样？</summary><p>电脑、手机、平板、路由器凡建立隧道均计入。基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新设备可能无法握手或被短暂限制，断开闲置终端即可恢复。路由器共享会占用 1 个名额，其下终端不再重复计数。</p></details><details><summary>NSL 能否用于游戏加速和流媒体？</summary><p>可以。基础版覆盖常规流媒体；旗舰版强调全节点原生解锁与 IPLC 游戏优化；团队版另有高带宽 VIP 节点。实际效果仍受本地宽带与目标服务器影响，建议在客户端收藏延迟较低的专线节点。</p></details><details><summary>订阅链接泄露或客户端报错怎么办？</summary><p>立刻在官网控制台重置订阅，旧链接将失效。报错时先更新订阅与客户端内核，再切换节点。DNS 污染可在客户端启用 Fake-IP 或指定可靠 DNS。仍失败可走旗舰/团队工单通道说明系统与日志时间。</p></details></section><aside class=\"ad\" id=\"ads\"><h2>广告</h2><p>NSL 官方合作位：企业专线咨询、团队版批量开通与年度续费通道。内容由官网维护，不跳转不明下载站。</p><p>推广说明：本区域仅展示与 NSL 机场订阅、客户端教学相关的合作信息，不插入第三方脚本。</p></aside><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><section id=\"sitemap\"><h2>网站地图</h2><p><a href=\"#intro\">品牌简介</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#plans\">套餐价格</a> · <a href=\"#clients\">客户端选择</a> · <a href=\"#download\">官网下载</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#ads\">广告</a> · <a href=\"#links\">友情链接</a></p><p>XML Sitemap：https://www.nsl-vpn.com/sitemap.xml</p></section><section id=\"links\"><h3>友情链接</h3><p><a href=\"#\">Clash 配置入门</a> · <a href=\"#\">Shadowrocket 使用备忘</a> · <a href=\"#\">IPLC 线路说明</a> · <a href=\"#\">分流规则公共列表</a> · <a href=\"#\">NSL 状态公告</a></p></section><p>© NSL 官方网站 · 机场订阅与 VPN 网络加速服务 · 客户端请从正规渠道下载</p></div></footer>",
+          "hash": "36c5f69feafe9acde6d77c5f2ee84985c8440a5967aea48c5352bea23c17a010",
+          "seo": {
+            "title": "NSL 官方网站 - VPN 梯子网络加速器与客户端下载",
+            "keywords": "NSL,NSL机场,NSL VPN,梯子,网络加速,加速器,客户端下载,官网下载,Clash,Shadowrocket,IPLC",
+            "description": "NSL 提供稳定的机场订阅与 VPN 梯子网络加速服务，支持多端客户端下载，含基础版、旗舰版与团队版套餐，官方网站一站获取节点与加速器。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nmpyno.cn",
+    "host": "p-99e0a3f4ce.nmpyno.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nmpyno.cn",
+      "url": "https://nmpyno.cn/",
+      "label": "快鱼(Fastfish)",
+      "apex": "nmpyno.cn",
+      "kind": null,
+      "identity": "wangbadani1/page-99b9c038b518d31f3b5516f5"
+    },
+    {
+      "host": "xifaninfo.cn",
+      "url": "https://xifaninfo.cn/",
+      "label": "NSL",
+      "apex": "xifaninfo.cn",
+      "kind": null,
+      "identity": "tiaenzvpvn/page-8e01d5a1878a7fa6297f1109"
+    },
+    {
+      "host": "xindigz.cn",
+      "url": "https://xindigz.cn/",
+      "label": "NSL",
+      "apex": "xindigz.cn",
+      "kind": null,
+      "identity": "wtpbihbpe/page-412effbe713751a5d6f80113"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d610247c04f251dd806a965cf1969408cfcd2019df71bbf9a9d84dacfe4cf5d5",
+    "sitemap.xml": "ecdb0b1fff605b03d0760df9e39c14d19dfe123d7fcc6d35d8f8f9526533dea2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2a7e60560d0ddefb14b507004b3a637027332d17b47aee680e38f72cbad18bbf",
+    "robots.txt": "ce95e86b0ed545f457c1e785266f20171312a0b6f40926539ca05973e9c1c0c5",
+    "94c09ee86e23d56780b6edf40097fe3f.txt": "e123ab6b796e604a30c2deec7e2424149c726294eb0bb0f7837df0b1d8acde89"
+  },
+  "revision": "8fc4f032dbafaf6dede009d0dff9c9c5d06d6245f8b6e609f7b79151b122ec70"
+}
